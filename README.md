@@ -6,7 +6,9 @@ Fast, simple, and requires **administrator rights** ⚡ for safe operation.
 ✅ Built **100% in Python**  
 🛡️ **100% Safe | No Virus**
 
-<img width="518" height="495" alt="Retro Injector Screenshot" src="https://github.com/user-attachments/assets/7ca2c640-1521-433b-98e0-3b7294f3b5a1" />
+| Screenshot | Logo |
+|------------|------|
+| <img width="518" height="495" alt="Retro Injector Screenshot" src="https://github.com/user-attachments/assets/7ca2c640-1521-433b-98e0-3b7294f3b5a1" /> | <img width="518" height="518" alt="Retro-Injector Logo" src="https://github.com/user-attachments/assets/c65a4adf-5eae-4f6e-8964-c73cea0b6024" /> |
 
 ---
 
