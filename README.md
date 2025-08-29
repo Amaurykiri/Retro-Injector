@@ -3,7 +3,8 @@
 Retro Injector is a **retro-themed DLL injector** with a nostalgic **Windows 95 GUI** 🖥️✨.  
 Inject DLLs into target processes effortlessly, keep detailed logs 📜, and manage them securely 🔒.  
 Fast, simple, and requires **administrator rights** ⚡ for safe operation.  
-✅ Built **100% in Python**
+✅ Built **100% in Python**  
+🛡️ **100% Safe | No Virus**
 
 <img width="518" height="495" alt="Retro Injector Screenshot" src="https://github.com/user-attachments/assets/7ca2c640-1521-433b-98e0-3b7294f3b5a1" />
 
@@ -29,7 +30,8 @@ Fast, simple, and requires **administrator rights** ⚡ for safe operation.
 - Detailed logs with potential errors 📜❌  
 - Logs management: download 💾 or delete 🗑️  
 - Admin rights required for safe operation 🛡️  
-- **100% Python** ✅
+- **100% Python** ✅  
+- **100% Safe | No Virus** 🛡️
 
 ---
 
