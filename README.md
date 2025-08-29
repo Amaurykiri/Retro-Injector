@@ -4,6 +4,8 @@ Retro Injector is a **retro-themed DLL injector** with a nostalgic **Windows 95 
 Inject DLLs into target processes effortlessly, keep detailed logs 📜, and manage them securely 🔒.  
 Fast, simple, and requires **administrator rights** ⚡ for safe operation.
 
+<img width="518" height="495" alt="db344f84-1ea8-4bf1-a119-226c3d9ce4a1" src="https://github.com/user-attachments/assets/7ca2c640-1521-433b-98e0-3b7294f3b5a1" />
+
 ---
 
 ## 🚀 Usage
