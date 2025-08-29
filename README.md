@@ -1,4 +1,4 @@
-# <div align="center">Retro Injector ~ by Amaurykiri</div>
+# <div align="center">Retro Injector  by Amaurykiri</div>
 
 Retro Injector is a **retro-themed DLL injector** with a nostalgic **Windows 95 GUI**.  
 Inject DLLs into target processes effortlessly, keep detailed logs, and manage them securely.  
