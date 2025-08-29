@@ -56,3 +56,18 @@ Created by [@Amaurykiri](https://github.com/Amaurykiri)
 
 All Rights Reserved.  
 You may **not copy, distribute, or modify** this executable without explicit permission from the author.
+
+---
+
+##  Disclaimer / Educational Use Only
+
+**Retro Injector** is provided for **educational and research purposes only**.  
+By using this software, you agree that you are responsible for complying with all applicable laws in your country.  
+
+**Important notes:**  
+- Do **not** use this tool to inject DLLs into software or systems without explicit permission.  
+- Unauthorized use may be illegal and could result in civil or criminal penalties.  
+- This project is intended to **learn, experiment, and understand DLL injection techniques in a safe environment**.  
+- The author is **not responsible** for any misuse or damages caused by this software.  
+
+**Use responsibly and legally.**
